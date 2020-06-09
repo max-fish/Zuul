@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\r\n\ This\ class\ is\ part\ of\ the\ "find\ Michael\ Kolling"\ application.\ \r\n\ "World\ of\ Zuul"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\r\n\ \r\n\ The\ Item\ class\ stores\ an\ Item\ that\ has\ a\ decriptiona\ and\ weight.\r\n\ This\ class\ is\ used\ by\ the\ game\ class\ to\ create\ specific\ items\ and\ assign\ them\ to\ specific\ rooms.\ \r\n\ This\ class\ is\ also\ used\ by\ the\ room\ class\ in\ order\ to\ store\ these\ specific\ items\ in\ an\ hashmap\ of\ type\ <String,\ Item>\ in\ these\ specific\ rooms.\r\n\r\n\ @author\ Maxim\ Fishman\r\n\ @version\ (2018.11.19)\r\n
+comment1.params=description\ weight
+comment1.target=Item(java.lang.String,\ int)
+comment1.text=\r\n\ Create\ an\ Item\ with\ a\ specified\ description\ and\ weight\r\n
+comment2.params=
+comment2.target=int\ getWeight()
+comment2.text=\r\n\ returns\ the\ weight\ of\ this\ item\r\n\ @return\ weight\ of\ this\ tiem\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ returns\ the\ description\ of\ this\ item\r\n\ @return\ description\ of\ this\ item\r\n
+numComments=4

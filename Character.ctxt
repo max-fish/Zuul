@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "find\ Michael\ Kolling"\ application.\ \r\n\ "Find\ Michael\ Kolling"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\r\n\ \ \r\n\ \ This\ class\ stores\ a\ character\ that\ has\ a\ phrase.\ The\ player\ can\ interact\r\n\ \ with\ any\ character\ in\ order\ to\ gain\ clues\ about\ what\ to\ do\ next.\r\n\r\n\ @author\ Maxim\ Fishman\r\n\ @version\ (2018.11.30)\r\n
+comment1.params=phrase
+comment1.target=Character(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Character\r\n\ @param\ phrase\ (what\ the\ character\ says)\r\n
+comment2.params=
+comment2.target=java.lang.String\ getPhrase()
+comment2.text=\r\n\ Returns\ the\ phrase\ of\ the\ character\r\n\ @return\ phrase\r\n
+numComments=3
